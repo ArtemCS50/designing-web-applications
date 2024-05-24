@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meetings>
+    <meeting>
+        <date>2024-01-11</date>
+        <time>11:30</time>
+        <person>Robert King</person>
+        <location>Office 12B</location>
+    </meeting>
+    <meeting>
+        <date>2024-01-12</date>
+        <time>09:00</time>
+        <person>Linda Davis</person>
+        <location>Cafe Green</location>
+    </meeting>
+    <meeting>
+        <date>2024-01-13</date>
+        <time>14:00</time>
+        <person>James Wilson</person>
+        <location>Main Hall</location>
+    </meeting>
+    <meeting>
+        <date>2024-01-14</date>
+        <time>16:00</time>
+        <person>Patricia Miller</person>
+        <location>Conference Room B</location>
+    </meeting>
+</meetings>
+
